@@ -1,2 +1,1 @@
-
-# secure-shell-colors
+# Secure Shell colors.
